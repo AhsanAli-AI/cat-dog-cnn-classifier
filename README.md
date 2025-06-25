@@ -91,6 +91,3 @@ jupyter notebook notebooks/cat_dog_cnn.ipynb
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify for your own learning or applications.
