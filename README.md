@@ -85,9 +85,9 @@ jupyter notebook notebooks/cat_dog_cnn.ipynb
 ## 📬 Connect with Me
 
 **Ahsan Ali**  
-📧 Email: _[your-email@example.com]_  
-🔗 LinkedIn: _[linkedin.com/in/yourname]_  
-💻 GitHub: _[github.com/yourusername]_
+📧 Email: _[aa6797331@gmail.com]_  
+🔗 LinkedIn: _[www.linkedin.com/in/ahsan-ali-b3a22a319]_  
+💻 GitHub: _[[https://github.com/AhsanAli-AI]
 
 ---
 
